@@ -119,8 +119,9 @@ No Show Rate % = DIVIDE(CALCULATE(COUNT(fact_bookings[booking_id]), fact_booking
 // Distinct Days Count
 No of Days = DISTINCTCOUNT(fact_bookings[check_in_date])
 
-**Dashboard**
-<img width="1642" height="842" alt="Screenshot 2026-09-03 153630" src="https://github.com/user-attachments/assets/2d1f3a3a-9988-4b90-af0b-7ad3fe02b175" />
+```
+
+
 
 
 
