@@ -1,4 +1,4 @@
-# 🏨 Hospitality Domain Data Analytics Dashboard
+# 🏨 Atliq Grand Hospitality Analytics Dashboard
 
 An end-to-end Data & Business Analytics project for the hospitality domain. This project analyzes key operational and revenue metrics for AtliQ Grands (a hotel chain operating across major Indian cities) to provide strategic insights into revenue realization, room category performance, booking platform share, and occupancy trends.
 
@@ -118,3 +118,9 @@ No Show Rate % = DIVIDE(CALCULATE(COUNT(fact_bookings[booking_id]), fact_booking
 
 // Distinct Days Count
 No of Days = DISTINCTCOUNT(fact_bookings[check_in_date])
+
+**Dashboard**
+<img width="1642" height="842" alt="Screenshot 2026-09-03 153630" src="https://github.com/user-attachments/assets/2d1f3a3a-9988-4b90-af0b-7ad3fe02b175" />
+
+
+
